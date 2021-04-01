@@ -1,3 +1,3 @@
 rootProject.name = 'rabbitmq-learning'
 
-include '1_hello-world'
+include '1_hello-world', '2_work-queues'
