@@ -4,4 +4,5 @@ include '1_hello-world',
         '2_work-queues',
         '3_publish-subscribe',
         '4_routing',
-        '5_topics'
+        '5_topics',
+        '6_rpc'
