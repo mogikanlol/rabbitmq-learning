@@ -1,9 +1,9 @@
 rootProject.name = 'rabbitmq-learning'
 
-include '1_hello-world',
-        '2_work-queues',
-        '3_publish-subscribe',
-        '4_routing',
-        '5_topics',
-        '6_rpc',
-        '7_publisher-confirms'
+include 'rabbitmq-official-tutorials:1_hello-world',
+        'rabbitmq-official-tutorials:2_work-queues',
+        'rabbitmq-official-tutorials:3_publish-subscribe',
+        'rabbitmq-official-tutorials:4_routing',
+        'rabbitmq-official-tutorials:5_topics',
+        'rabbitmq-official-tutorials:6_rpc',
+        'rabbitmq-official-tutorials:7_publisher-confirms'
