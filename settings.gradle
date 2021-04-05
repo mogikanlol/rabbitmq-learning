@@ -5,4 +5,5 @@ include '1_hello-world',
         '3_publish-subscribe',
         '4_routing',
         '5_topics',
-        '6_rpc'
+        '6_rpc',
+        '7_publisher-confirms'
