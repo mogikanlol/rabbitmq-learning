@@ -6,4 +6,5 @@ include 'rabbitmq-official-tutorials:1_hello-world',
         'rabbitmq-official-tutorials:4_routing',
         'rabbitmq-official-tutorials:5_topics',
         'rabbitmq-official-tutorials:6_rpc',
-        'rabbitmq-official-tutorials:7_publisher-confirms'
+        'rabbitmq-official-tutorials:7_publisher-confirms',
+        'spring-boot-rabbitmq-get-started'
